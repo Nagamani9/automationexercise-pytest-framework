@@ -1,4 +1,5 @@
 pytest
 selenium
+pytest-html
 webdriver-manager
 pyyaml
