@@ -1,0 +1,11 @@
+selenium
+pytest
+requests
+webdriver-manager
+allure-pytest
+pytest-xdist
+pytest-rerunfailures
+python-dotenv
+pyyaml
+tenacity
+faker

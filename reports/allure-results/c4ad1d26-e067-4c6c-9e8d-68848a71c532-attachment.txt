@@ -1,0 +1,3 @@
+CONFIG PATH: C:\Users\Mani_\PycharmProjects\automationexercise\configs\config.yaml
+DATA FILE PATH: C:\Users\Mani_\PycharmProjects\automationexercise\test_data\auth\register_user.json
+DATA FILE PATH: C:\Users\Mani_\PycharmProjects\automationexercise\test_data\auth\register_user.json
